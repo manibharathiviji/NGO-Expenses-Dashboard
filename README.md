@@ -10,7 +10,7 @@ It provides **interactive insights, dynamic filtering, and visually stunning rep
 [![NGO Expenses Dashboard](https://drive.google.com/uc?id=18NlPQrEIemLa8S4G9trPW_IQ6W-lWbEi)](https://drive.google.com/file/d/18NlPQrEIemLa8S4G9trPW_IQ6W-lWbEi/view?usp=sharing)  
 
 ## 🎥 Live Demo  
-[![Excel Dashboard Demo](https://drive.google.com/uc?id=1pLwzVye27j9rYhLk19pnZ4Uihye7R2Ga)](https://drive.google.com/file/d/1pLwzVye27j9rYhLk19pnZ4Uihye7R2Ga/view?usp=sharing)  
+[![Watch Live Demo on YouTube](https://img.youtube.com/vi/HZKFTyMOHFY/0.jpg)](https://youtu.be/HZKFTyMOHFY)  
 
 ---
 
@@ -22,6 +22,14 @@ It provides **interactive insights, dynamic filtering, and visually stunning rep
 
 ---
 
+## 💼 Business Impact  
+🚀 **Improved Financial Transparency:** NGOs can track spending patterns and allocate resources efficiently.  
+📊 **Data-Driven Decision Making:** Helps organizations identify high-cost areas and optimize budgets.  
+🔍 **Better Donor Communication:** Visualizing expenses builds trust and attracts more funding.  
+📉 **Cost Reduction Strategies:** Identifies areas for cost savings and operational efficiency.  
+
+---
+
 ## 🛠️ Technologies Used  
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Power Query](https://img.shields.io/badge/Power%20Query-5E5C5C?style=for-the-badge)  
@@ -29,7 +37,7 @@ It provides **interactive insights, dynamic filtering, and visually stunning rep
 ---
 
 ## ⚡ How to Use  
-1️⃣ **Download** the `expenses_dashboard.xlsx` file.  
+1️⃣ **Download** the `[Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1j4juL4zQmxTaxxicQjw4jD_c_KwSo4K2/edit?usp=sharing&ouid=100802422128863258108&rtpof=true&sd=true)` file.  
 2️⃣ Open it in **Microsoft Excel (2016+)**.  
 3️⃣ Use the **month selection dropdown** to filter data dynamically.  
 4️⃣ Modify data in the **"Data" sheet**, and the dashboard updates automatically!  
