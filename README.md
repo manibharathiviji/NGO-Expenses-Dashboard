@@ -37,7 +37,7 @@ It provides **interactive insights, dynamic filtering, and visually stunning rep
 ---
 
 ## ⚡ How to Use  
-1️⃣ **Download** the `[Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1j4juL4zQmxTaxxicQjw4jD_c_KwSo4K2/edit?usp=sharing&ouid=100802422128863258108&rtpof=true&sd=true)` file.  
+1️⃣ **Download** the [Excel Dashboard](https://docs.google.com/spreadsheets/d/1j4juL4zQmxTaxxicQjw4jD_c_KwSo4K2/edit?usp=sharing) file.  
 2️⃣ Open it in **Microsoft Excel (2016+)**.  
 3️⃣ Use the **month selection dropdown** to filter data dynamically.  
 4️⃣ Modify data in the **"Data" sheet**, and the dashboard updates automatically!  
@@ -57,7 +57,7 @@ It provides **interactive insights, dynamic filtering, and visually stunning rep
 
 ## 💡 Contribute & Connect  
 🚀 Found this useful? **Star this repo** ⭐ and **follow me** for more data projects!  
-📩 Got questions? **Let's connect on [LinkedIn](https://linkedin.com/in/yourprofile)**!  
+📩 Got questions? **Let's connect on [LinkedIn](https://www.linkedin.com/in/manibharathi-vijayakumar-7a1731259/)**!  
 
 ---
 
